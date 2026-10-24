@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<configuration>
+    <database>
+        <url>jdbc:mysql://localhost:3306/romehotelparkingdb</url>
+        <user>Admin</user>
+        <password>root</password>
+    </database>
+    <server>
+        <port>9090</port>
+        <file>demo\\client_message.txt</file>
+        <address>localhost</address>
+    </server>
+</configuration>
